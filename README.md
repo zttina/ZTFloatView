@@ -20,6 +20,10 @@ it, simply add the following line to your Podfile:
 pod 'ZTFloatView'
 ```
 
+## 效果展示
+
+![IMG_4576](media/15551291685102/IMG_4576.gif)
+
 ## Author
 
 zttina, 351199191@qq.com
