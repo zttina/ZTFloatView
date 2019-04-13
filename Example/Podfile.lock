@@ -1,0 +1,16 @@
+PODS:
+  - ZTFloatView (0.1.0)
+
+DEPENDENCIES:
+  - ZTFloatView (from `../`)
+
+EXTERNAL SOURCES:
+  ZTFloatView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZTFloatView: 41e37af9e886cb80572dee4a19240a949255d003
+
+PODFILE CHECKSUM: 7e628a880eb510725242a5bed902ab52d6e3b9f7
+
+COCOAPODS: 1.6.1

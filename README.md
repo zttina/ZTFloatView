@@ -1,6 +1,6 @@
 # ZTFloatView
 
-[![CI Status](https://img.shields.io/travis/hfzdeyx@163.com/ZTFloatView.svg?style=flat)](https://travis-ci.org/hfzdeyx@163.com/ZTFloatView)
+[![CI Status](https://img.shields.io/travis/zttina/ZTFloatView.svg?style=flat)](https://travis-ci.org/zttina/ZTFloatView)
 [![Version](https://img.shields.io/cocoapods/v/ZTFloatView.svg?style=flat)](https://cocoapods.org/pods/ZTFloatView)
 [![License](https://img.shields.io/cocoapods/l/ZTFloatView.svg?style=flat)](https://cocoapods.org/pods/ZTFloatView)
 [![Platform](https://img.shields.io/cocoapods/p/ZTFloatView.svg?style=flat)](https://cocoapods.org/pods/ZTFloatView)
@@ -22,7 +22,7 @@ pod 'ZTFloatView'
 
 ## Author
 
-hfzdeyx@163.com, 351199191@qq.com
+zttina, 351199191@qq.com
 
 ## License
 
