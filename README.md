@@ -22,7 +22,7 @@ pod 'ZTFloatView'
 
 ## 效果展示
 
-![IMG_4576](media/15551291685102/IMG_4576.gif)
+![IMG_4576](https://github.com/zttina/ZTFloatView/blob/master/IMG_4576.GIF)
 
 ## Author
 
